@@ -2,7 +2,7 @@
   "name": "react-todo-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://BABISENAPATHI.github.io/react-todo-app",
+  "homepage": "https://bobbysenapathi.github.io/react-todo-app",
   "dependencies": {
     "framer-motion": "^11.0.8",
     "lucide-react": "^0.344.0",
